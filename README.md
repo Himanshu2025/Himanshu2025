@@ -5,7 +5,7 @@ A Full-Stack Developer based in Melbourne, VIC, with 2+ years of experience buil
 ### 🚀 About Me
 * 🔭 I’m currently working as a Full-Stack Developer, shipping production features end-to-end and delivering timeboxed spike builds.
 * 🌱 I’m highly focused on AI-assisted development workflows (Cursor, Claude Code), Test-Driven Development (TDD), and refining CI/CD pipelines.
-* 🏗️ I recently built **Rexfo**, a live psychology-first SaaS trading companion leveraging Next.js 15, Supabase, Stripe, and Claude AI.
+* 🏗️ I recently built **Rexfo**, a live psychology-first SaaS trading companion leveraging Next.js 15, Supabase and Stripe
 
 
 ## 🌐 Socials
