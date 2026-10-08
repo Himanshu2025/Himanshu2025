@@ -20,16 +20,6 @@ I'm a Melbourne-based full-stack developer and forward deployed engineer. I take
 **AI Tooling**<br/>
 <img src="badges/cursor.svg" alt="Cursor" height="28" /> <img src="badges/claude-code.svg" alt="Claude Code" height="28" />
 
-## 🗂️ Experience
-
-| Role | Company | When |
-| --- | --- | --- |
-| Forward Deployed Engineer | Flectēre | Sep 2026 – Present |
-| Full-Stack Developer | LaunchKey Lab | Apr 2026 – Jun 2026 |
-| Volunteer Frontend Developer | People for Nature | Jan 2026 – Apr 2026 |
-| Full Stack Developer & Project Coordinator | Monash University | Jul 2025 – Oct 2025 |
-| Full Stack Developer | AI SaaS Startup (Stealth) | Nov 2024 – Jul 2025 |
-
 ## 🛠️ Selected Projects
 
 - **[Crack On](https://www.crackon.app)**: An AI-native platform that surfaces and ranks the real problems Australians complain about, so founders can validate on evidence. An LLM clusters complaints from Reddit, Hacker News, RSS and ProductReview into problems, each scored with a reproducible "Itch Score". *Next.js · TypeScript · Claude · Supabase*
