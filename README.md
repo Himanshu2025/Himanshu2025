@@ -4,7 +4,7 @@
 
 I'm a Melbourne-based full-stack developer and forward deployed engineer. I take features end to end, from design and database schema to tested, deployed code.
 
-<a href="https://himanshukulkarni.com"><img src="badges/portfolio.svg" alt="Portfolio" height="28" /></a> <a href="https://www.linkedin.com/in/himanshu-kulkarni2025/"><img src="badges/linkedin.svg" alt="LinkedIn" height="28" /></a> <a href="https://x.com/Himanshu_K2025"><img src="badges/x.svg" alt="X" height="28" /></a> <a href="https://docs.google.com/document/d/17Er7z2ExW3_guWwEDvZEyi75XlUb_7z5ndmOMtRT37M/edit?usp=sharing"><img src="badges/resume.svg" alt="Resume" height="28" /></a>
+<a href="https://himanshukulkarni.com"><img src="badges/portfolio.svg" alt="Portfolio" height="28" /></a> <a href="https://www.linkedin.com/in/himanshu-kulkarni2025/"><img src="badges/linkedin.svg" alt="LinkedIn" height="28" /></a> <a href="https://x.com/Himanshu_K2025"><img src="badges/x.svg" alt="X" height="28" /></a>
 
 ## 🧩 Dependencies
 
